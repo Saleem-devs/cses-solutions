@@ -18,7 +18,7 @@ This repository contains my solutions to the [CSES Problem Set](https://cses.fi/
 ## Progress
 
 - [ ] Introductory Problems (0/19)
-- [ ] Sorting and Searching (2/35)
+- [ ] Sorting and Searching (3/35)
 - [ ] Dynamic Programming (0/19)
 - [ ] Graph Algorithms (0/36)
 - [ ] Range Queries (0/19)
